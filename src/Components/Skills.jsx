@@ -15,13 +15,13 @@ export const Skills = () => {
               <h3 className="skills__skill">Bootstrap</h3>
               <h3 className="skills__skill">JavaScript</h3>
               <h3 className="skills__skill">React</h3>
-              <h3 className="skills__skill">Node js</h3>
-              <h3 className="skills__skill">Mongodb</h3>
+              <h3 className="skills__skill">Node js</h3>             
               <h3 className="skills__skill">MySql</h3>
+              <h3 className="skills__skill">Responsive Design</h3>
               <h3 className="skills__skill">GIT</h3>
               <h3 className="skills__skill">Github</h3>
-              <h3 className="skills__skill">Responsive Design</h3>
               <h3 className="skills__skill">Postman</h3>
+              <h3 className="skills__skill">Mongodb Atlas</h3>
             </div>
           </div>
       </Container>
