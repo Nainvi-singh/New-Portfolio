@@ -14,8 +14,8 @@ export const Projects = () => {
             <h2 className="heading">
               <span className="heading_main">PROJECTS</span>
               <span className="heading_sub">
-                Here you will find some of the personal and clients projects that I
-                created with each project containing its own case study
+                Here you will find some of the personal projects that I
+                created with each project containing its GitHub or Live link.
               </span>
             </h2>
 
